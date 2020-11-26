@@ -1,0 +1,19 @@
+{
+  "name": "npmwithgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lusr77/NPMGIT.git"
+  },
+  "author": "Bhargav vummadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lusr77/NPMGIT/issues"
+  },
+  "homepage": "https://github.com/Lusr77/NPMGIT#readme"
+}
